@@ -24,7 +24,7 @@ Kända begränsningar
   börjar indelas i instruktioner och operander.
 - Det grafiska gränssnittet tillför en del onödig komplexitet och
   framtida versioner kan därför istället komma att innehålla ett
-  terminal-baserat gränssnitt istället.
+  terminal-baserat gränssnitt.
 - Programmet kan hantera den shell-kod och dylikt som jag har 
   givit det, men saknar i dagsläget ett ordentlig test-korpus med
   kod att köra igenom för att säkerställa och förbättra programmet.
@@ -38,7 +38,7 @@ Externa bibliotek som används
 =============================
 
 Programmet är beroende av libcommons-lang3-java som enklast
-installeras i Debian / Ubuntu enligt följande::
+installeras i Debian / Ubuntu enligt::
 
     apt-get install libcommons-lang3-java
 
